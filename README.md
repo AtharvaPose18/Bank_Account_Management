@@ -13,13 +13,13 @@ A beginner-friendly Java program that simulates basic banking operations through
 - Switch-case and conditional statements
 
 ## How to Run
-1. Download BankAccount.java.
+1. Download Bank_Account_Management.java.
 2. Open a terminal in the folder containing the file.
 3. Compile the program:
-   javac BankAccount.java
+   javac Bank_Account_Management.java
   
 4. Run the program:
-   java BankAccount
+   java Bank_Account_Management
   
 ## Purpose
 This project was created to practise Java programming concepts and understand basic banking operations.
